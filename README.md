@@ -1,8 +1,7 @@
 # blog1
 第三方sdk.以及插件
 ==========================
-http://www.geetest.com/Test-button.html
-----------
-搜狐畅言评论插件
--------------------
-http://changyan.kuaizhan.com/
+人机验证码<br>
+http://www.geetest.com/Test-button.html<br>
+搜狐畅言评论插件<br>
+http://changyan.kuaizhan.com/<br>
