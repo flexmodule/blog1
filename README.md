@@ -18,6 +18,7 @@ http://mockjs.com/<br>
 1.移动端，pc端共用demo，两套css，简化<br>
 2.移动端，支持jquery的hover方法吗<br>
 3.js里面替换src路径，报错404--------------webpack相关问题<br>
+4.input  file类型文件监听时间onchange<br>
 
 
 语法糖
