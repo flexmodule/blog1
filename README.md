@@ -49,3 +49,4 @@ http://hcysun.me/2018/01/05/%E6%8E%A2%E7%B4%A2Vue%E9%AB%98%E9%98%B6%E7%BB%84%E4%
 es6
 ------------------------------
 1.http://es6.ruanyifeng.com/#docs/class
+2.因为 ES6 明确规定，Class 内部只有静态方法，没有静态属性。静态属性指的是 Class 本身的属性，即Class.propName，而不是定义在实例对象（this）上的属性。<br>
